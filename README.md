@@ -1,7 +1,7 @@
 # Course goal app! 
 
 
-This application allows you to add a list of your own goals that you want to achieve. Simply type the goal, for exapmle 'Drink more water!' to the form and click "Add Goal" button. belowe the form you will see all your goals listed. If you will click on any of them, you will deleted them from the list. This project was created to learn more about React and styled components.
+This application allows you to add a list of your own goals that you want to achieve. Simply type the goal, for exapmle "Drink more water!" to the form and click "Add Goal" button. Below the form you will see all your goals listed. If you will click on any of them, you will delete them from the list. This project was created to learn more about React and styled components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
